@@ -1,0 +1,12 @@
+ProductID,ProductName,Category,Price,Stock
+1,Laptop,Electronics,32500,12
+2,Mouse,Electronics,450,35
+3,Keyboard,Electronics,850,20
+4,Office Chair,Furniture,4200,8
+5,Desk,Furniture,6500,5
+6,Monitor,Electronics,7800,10
+7,Webcam,Electronics,,18
+8,Bookshelf,Furniture,3500,
+9,Printer,Electronics,9200,6
+3,Keyboard,Electronics,850,20
+10,,Electronics,1200,15

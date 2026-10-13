@@ -1,0 +1,18 @@
+CSV VERİ ANALİZ RAPORU
+===================================
+
+GENEL İSTATİSTİKLER
+-------------------------
+Toplam ürün sayısı: 10
+Ortalama fiyat: 7355.56
+En düşük fiyat: 450.00
+En yüksek fiyat: 32500.00
+Toplam stok: 143.33
+Ortalama stok: 14.33
+
+KATEGORİ BAZLI ÖZET
+-------------------------
+             ProductCount  AveragePrice  TotalStock
+Category                                           
+Electronics             7       8479.37      116.00
+Furniture               3       4733.33       27.33
